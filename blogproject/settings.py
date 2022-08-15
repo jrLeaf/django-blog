@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-fmfs!-@l!8p-xd!b*c^g!2bg6)w-d8v^sa3+5&)$gigmud!wm3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '172.16.172.139']
 
 
 # Application definition
